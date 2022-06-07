@@ -41,11 +41,11 @@ Once you have your `vrunner.ini` file set up, use <kbd>Ctrl</kbd> + <kbd>Shift</
 
 # Advice
 
-Tested only on Windows. Do you want to help me by testing it on other platforms? :)
+- Tested only on Windows. Do you want to help me by testing it on other platforms? :)
 
 # TODO
 
-- [ ] Add support for other virtualenv enviroments managers
+- [ ] Add support for other virtualenv enviroments managers (just virtualenv supported)
 - [ ] Autodetect operative system (system/os config)
 - [ ] Add support for Linux bases OS
 - [ ] Add support for MacOS
