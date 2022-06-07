@@ -45,6 +45,7 @@ Tested only on Windows. Do you want to help me by testing it on other platforms?
 
 # TODO
 
+- [ ] Add support for other virtualenv enviroments managers
 - [ ] Autodetect operative system (system/os config)
 - [ ] Add support for Linux bases OS
 - [ ] Add support for MacOS
